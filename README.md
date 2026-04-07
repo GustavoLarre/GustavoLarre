@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Gustavo Larré
 
-<!--
-**GustavoLarre/GustavoLarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Passionate about technology, development, and problem-solving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am currently studying and focusing on the following areas:
+
+🤖 Artificial Intelligence (AI)
+🌐 Web Development
+🏗️ Data Architecture
+🌍 Internet of Things (IoT)
+
+---
+
+## 🛠️ Technologies & Interests
+
+* Programming: C, Java, JavaScript, Python
+* Databases (especially MyAQL, SQL Server and Oracle )
+* Fullstack Web Development
+  
+---
+
+## 🧪 Development Approach
+
+* Test-Driven Development (TDD)
+
+I value writing clean, maintainable code and ensuring software quality through testing.
+
+---
+
+## 🎯 Goal
+
+To become a highly skilled technology professional, focused on scalable solutions, data analysis, and artificial intelligence.
+
+
+
